@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "location",
+    "slug": "snack-9ce90629-f9c2-4515-b6a4-7991c3552f09",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kamalpanwar.snack9ce90629f9c24515b6a47991c3552f09"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e2ad634-a07b-4c2c-9def-ddbe6d918558"
+      }
+    }
+  }
+}
